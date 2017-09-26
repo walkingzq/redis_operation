@@ -1,0 +1,1 @@
+利用spring-data-redis远程对redis进行简单操作
